@@ -1,7 +1,6 @@
 Ride-hailing APP
-This application is designed for user to offer and book rides. After login, 
-user can choose offer a ride, search a ride, book a ride, cancel booking, 
-post ride request and delete ride request. 
+This application is designed for user to offer and book rides. After login,
+user can choose offer a ride, search a ride, book a ride, cancel booking, post ride request and delete ride request.
 This application is mainly use python and SQL technical tools.
 
 Group member: 
